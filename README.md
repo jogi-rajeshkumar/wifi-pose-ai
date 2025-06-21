@@ -194,8 +194,7 @@ Thanks to:
 
 ## 📩 Contact
 
-Author: [Your Name]  
-Email: your.email@example.com  
-LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+Author: RAJESH KUMAR JOGI  
+Email: rajeshkumarjogi.2098@gmail.com
 
 ---
